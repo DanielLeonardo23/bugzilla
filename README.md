@@ -1,37 +1,13 @@
-temas de FORMA
+un teste del grupo asmisnitrabo generem un bug se lo derivo al admisnitrativo desarrollo y esta en el abndeja a esa bugs soo puedo acede cuqluier desarrolado puede acceder   pero no peuden accedeneder los demas testes del grupo admisnitrativos , cuando se genrea el bugs ,  se me salen los grupos que tienen permisos por defetcto esta marcado el fech desarrollo admisntiravio y calidad adminsitrativos..
+.
+.
+.
+.
+.
+.
+.
 
-reducir el interlineado a cero para evitar tantos espacios
+ el otro caso : segundo caso , es particular los señores tester administrativos el sistema 16 : 41 subsistemas  , los asinsitrativos ven 1 los toros 40 lo ven calidad :v::
 
-reducir los márgenes de la página
 
-usar letra HELVETICA
-
-usar imágenes nítidas
-
-de ser necesario retirar los comentarios descrito en cada imagen
-
-buscar que el instructivo tenga menos hojas
-
-revisar la redacción, en lugar de bug se dice but, producto explotación no existe
-
-usar analista de pruebas y analista de desarrollo al referirse a cada uno de ellos
-
-retirar términos como ahora, fuera, faltante, espera de resolución, flujo terminado en el mejor de los casos
- 
- 
-temas de FONDO
-
-redactar en tercera persona
-
-unir la descripción del flujo sin partir el instructivo en una parte para calidad y otra para desarrollo
-
-hay puntos del instructivo que no corresponden, por ejemplo el punto 2
-
-retirar secciones confusas por ejemplo tercer punto del flujo analista de calidad
-
-usar bug en lugar de Id
-
-que sucede si el bug no corresponde luego de ser evaluado por el analista de desarrollo
- 
-archivo con las observaciones
- 
+quien atiene los bug es de arrollo admisnitraivo  calidad tributro 16 calidaid admisnitraiva 16 , desarolo tribut ati oatender del siteams 16 si eres desarrollo administrativos tambien lo bug del sietmas 16 :v
